@@ -3,6 +3,8 @@ public class CurrencyConverter {
 
         System.out.println("Test");
 
+        System.out.println("This is a second change)");
+
                 /*
         java.util.Scanner scan = new java.util.Scanner(System.in);
         System.out.print("If I give you £1, how many Euro will you give me? ");
