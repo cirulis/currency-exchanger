@@ -1,8 +1,14 @@
 public class CurrencyConverter {
     public static void main(String[] args) {
-        System.out.println("This is me making changes");
-        System.out.println("Adding another test line");
-        System.out.println("Adding a third test line");
+
+        System.out.println("Test");
+
+        System.out.println("This is a second change)");
+
+        System.out.println("A third change");
+
+        System.out.println("A fourth change");
+            /* 
         java.util.Scanner scan = new java.util.Scanner(System.in);
         System.out.print("If I give you £1, how many Euro will you give me? ");
         double euroOverPoundRatio = scan.nextDouble();
@@ -40,5 +46,7 @@ public class CurrencyConverter {
             }
         }
         System.out.println("Exiting the program");
+
+                 */
     }
 }
